@@ -1,0 +1,2 @@
+<link href="<?php echo HOST.'/bootstrap/css/bootstrap.css'?>" rel="stylesheet" type="text/css" media="all" />
+<link href="<?php echo HOST.'/font-awesome/css/font-awesome.css'?>" rel="stylesheet" type="text/css" media="all" />
